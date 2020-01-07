@@ -20,7 +20,8 @@
 
 
 
-
+class Person 
+end
 
 
 
